@@ -1,6 +1,4 @@
 
-#include <stdio.h>
-
 int main()
 {
 	int a, b, c;
@@ -9,4 +7,5 @@ int main()
 	c = a + b;
 	printf( "%d\n", c);
 	return 0;
+}
 
